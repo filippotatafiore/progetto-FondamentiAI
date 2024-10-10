@@ -3,7 +3,7 @@
 Building upon the previous tasks of data preparation, cleaning, and exploratory analysis, this project develops and tests different machine learning algorithms.
 These algorithms are aimed at predicting specific outcomes based on the dataset.
 
-**These algorithms from scratch and may use machine learning frameworks only for verifying the quality of your results.**
+These algorithms are implemented **from scratch** and use machine learning frameworks only for verifying the quality of the results.
 
 
 ### Algorithms to Implement:
